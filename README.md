@@ -34,5 +34,7 @@ yarn run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 手动配置
+```
 vue.config.js
+```
 add image-webpack-loader image minify
